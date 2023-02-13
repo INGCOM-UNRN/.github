@@ -28,6 +28,7 @@ posible incorporar a telefonos que puedan emplear el formato iCal.
 
 [UNRN - Ingeniería en Computación](https://www.unrn.edu.ar/carreras/Ingenieria-en-Computacion-78)
 
-Calendario Primer año
- * [General](https://calendar.google.com/calendar/embed?src=c_42sm1h4p62g11qkhlglcsmegro%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires)
+![Youtube](https://img.shields.io/youtube/channel/views/UCOfhdmTG9-tkcTm4TmsvrzQ?label=Ingenier%C3%ADa%20en%20Computaci%C3%B3n&style=social)
+
+Calendario [General](https://calendar.google.com/calendar/embed?src=c_42sm1h4p62g11qkhlglcsmegro%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires)
 
