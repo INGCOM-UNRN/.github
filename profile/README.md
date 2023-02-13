@@ -31,8 +31,3 @@ posible incorporar a telefonos que puedan emplear el formato iCal.
 Calendario Primer año
  * [General](https://calendar.google.com/calendar/embed?src=c_42sm1h4p62g11qkhlglcsmegro%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires)
 
- * [Primer año](https://calendar.google.com/calendar/embed?src=c_ed8b9c575f899cc3b54857b5929b5d5f421466a3bfb7d94944549f0eb641bc50%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires)
- * [Segundo año](https://calendar.google.com/calendar/embed?src=c_35325668965f987c188a72312380ef99f06c5f236361e48d4a657e13aed79b61%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires)
- * [Tercer año](https://calendar.google.com/calendar/embed?src=c_db1730f0f3440a29874295f85bfd90b341cf7cc76123cc71e65df9c96a7813b6%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires)
-
-https://calendar.google.com/calendar/embed?src=c_ed8b9c575f899cc3b54857b5929b5d5f421466a3bfb7d94944549f0eb641bc50%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires
